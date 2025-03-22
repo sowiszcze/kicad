@@ -22,7 +22,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "sowitech:LOLIN ESP32 S3 Mini V1.0.0"
 			(at 0 0 0)
 			(effects
 				(font
@@ -58,20 +58,18 @@
 				(hide yes)
 			)
 		)
-		(symbol "LOLIN_ESP32_S3_Mini_V1.0.0_0_1"
+		(symbol "LOLIN_ESP32_S3_Mini_V1.0.0_1_1"
 			(rectangle
 				(start -13.97 21.59)
 				(end 13.97 -21.59)
 				(stroke
 					(width 0)
-					(type default)
+					(type solid)
 				)
 				(fill
-					(type none)
+					(type background)
 				)
 			)
-		)
-		(symbol "LOLIN_ESP32_S3_Mini_V1.0.0_1_1"
 			(pin input line
 				(at -16.51 19.05 0)
 				(length 2.54)
@@ -389,7 +387,7 @@
 						)
 					)
 				)
-				(number ""
+				(number "61"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -681,7 +679,7 @@
 						)
 					)
 				)
-				(number ""
+				(number "71"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -699,7 +697,7 @@
 						)
 					)
 				)
-				(number ""
+				(number "70"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -717,7 +715,7 @@
 						)
 					)
 				)
-				(number ""
+				(number "60"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -22896,7 +22894,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "sowitech:WeAct Studio ESP32 Core V1.0"
 			(at 0 0 0)
 			(effects
 				(font
@@ -23359,7 +23357,7 @@
 						)
 					)
 				)
-				(number ""
+				(number "74"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -23377,7 +23375,7 @@
 						)
 					)
 				)
-				(number ""
+				(number "73"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -23603,7 +23601,7 @@
 						)
 					)
 				)
-				(number ""
+				(number "72"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -23646,7 +23644,7 @@
 						)
 					)
 				)
-				(number ""
+				(number "65"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -23664,7 +23662,7 @@
 						)
 					)
 				)
-				(number ""
+				(number "64"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -23682,7 +23680,7 @@
 						)
 					)
 				)
-				(number ""
+				(number "63"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -23700,7 +23698,7 @@
 						)
 					)
 				)
-				(number ""
+				(number "62"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -23718,7 +23716,7 @@
 						)
 					)
 				)
-				(number ""
+				(number "61"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -23736,7 +23734,7 @@
 						)
 					)
 				)
-				(number ""
+				(number "60"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -23754,7 +23752,7 @@
 						)
 					)
 				)
-				(number ""
+				(number "71"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -23772,7 +23770,7 @@
 						)
 					)
 				)
-				(number ""
+				(number "70"
 					(effects
 						(font
 							(size 1.27 1.27)
